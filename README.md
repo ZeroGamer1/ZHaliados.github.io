@@ -1,3 +1,5 @@
 ![](https://github.com/ZeroGamer1/ZHaliados.github.io/blob/main/Teclado.jpg)
 ![](https://github.com/ZeroGamer1/ZHaliados.github.io/blob/main/gabinete.png)
 ![](https://github.com/ZeroGamer1/ZHaliados.github.io/blob/main/mause.png)
+![](https://github.com/ZeroGamer1/ZHaliados.github.io/blob/main/placa%20madre.png)
+![]()
